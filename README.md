@@ -26,7 +26,7 @@ digits (limited only by computer memory constraints).
   determination of sign
   * Other operations include negating a value and conversion to absolute values
 
-## Instructional Objectives
+### Instructional Objectives
 
 The specific educational aims of this project include, but should not be limited
 to, the following:
